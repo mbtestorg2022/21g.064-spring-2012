@@ -41,45 +41,381 @@ Your attendance is required at every single class. Except in cases of sickness o
 Gradings
 --------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Microthemes and other 1-page papers | 10% |
-| Essay 1 | 10% |
-| Essay 2 - First version | 15% |
-| Essay 2 - Revision | 10% |
-| Final Essay | 25% |
-| Oral presentation | 15% |
-| Class participation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Microthemes and other 1-page papers
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2 - First version
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2 - Revision
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Essay
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part I: What is Japanese Culture? Everyday Life and Contemporary Issues**{{< /td-colspan >}} |||
-| 1 | Introduction to the Course: Brief history Japan and the contemporary study of culture | &nbsp; |
-| 2 |
-| 3 | Is Japan group-oriented? | Film: _Makiko’s New World_ (Dir. David Plath) |
-| 4 | Film: _Hoichi the Earless_, excerpt from _Kwaidan_ (Dir. Masaki Kobayashi) |
-| 5 | Culture of Art, Folktakes, and Performance |  {{< br >}}{{< br >}} Visit to the Boston [MFA](http://www.mfa.org/) and discussion on the representation of Japan at the MFA. {{< br >}}{{< br >}} Please pay special attention to "[Echoes of Heian-Kyo: Court Culture and the Floating World](http://www.mfa.org/exhibitions/echoes-heian-kyo)," some of which depicts the world of the Tale of Genji. {{< br >}}{{< br >}}  |
-| 6 | Men, Women, and Change |  {{< br >}}{{< br >}} Special Event: Hoichi the Earless: Music and Dance Performance (biwa/butoh) {{< br >}}{{< br >}} Optional: Master class workshop with dancer and musicians {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Class visit: Video game makers from Akihabara (Japan) {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Discussion: Bumiller, Kelly/White and topic for Essay 1 {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Essay 1 Due {{< br >}}{{< br >}} Film: _Inside Japan, Inc_. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part II: Encounters with Cultural Difference**{{< /td-colspan >}} |||
-| 10 | Diversity of Japan | &nbsp; |
-| 11 |
-| 12 |
-| 13 |
-| 14 | Hiroshima: Did the Bomb End the War? | Essay 2 due |
-| 15 | Film: [Grave of the Fireflies](http://www.imdb.com/title/tt0095327/) (Dir. IsaoTakahata, Studio Ghibli) |
-| 16 | Contemporary Japan as Global Culture | &nbsp; |
-| 17 | &nbsp; |
-| 18 | Essay 2 revision due |
-| 19 | Student Symposium on Japanese Culture | Presentations |
-| 20 | Presentations (cont.) |
-| 21 | Presentations (cont.) |
-| 22 | Presentations (cont.) |
-| 23 | Presentations (cont.) |
-| 24 | Conclusions and Future Questions | &nbsp; |
-| 25 | Final paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: What is Japanese Culture? Everyday Life and Contemporary Issues**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course: Brief history Japan and the contemporary study of culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Is Japan group-oriented?
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Makiko’s New World_ (Dir. David Plath)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Hoichi the Earless_, excerpt from _Kwaidan_ (Dir. Masaki Kobayashi)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Culture of Art, Folktakes, and Performance
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visit to the Boston [MFA](http://www.mfa.org/) and discussion on the representation of Japan at the MFA.
+
+Please pay special attention to "[Echoes of Heian-Kyo: Court Culture and the Floating World](http://www.mfa.org/exhibitions/echoes-heian-kyo)," some of which depicts the world of the Tale of Genji.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Men, Women, and Change
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Special Event: Hoichi the Earless: Music and Dance Performance (biwa/butoh)
+
+Optional: Master class workshop with dancer and musicians
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Class visit: Video game makers from Akihabara (Japan)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion: Bumiller, Kelly/White and topic for Essay 1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Essay 1 Due
+
+Film: _Inside Japan, Inc_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: Encounters with Cultural Difference**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Diversity of Japan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Hiroshima: Did the Bomb End the War?
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Film: [Grave of the Fireflies](http://www.imdb.com/title/tt0095327/) (Dir. IsaoTakahata, Studio Ghibli)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Contemporary Japan as Global Culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Essay 2 revision due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Student Symposium on Japanese Culture
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusions and Future Questions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -18,4 +18,4 @@ In particular, please discuss by taking a stand either for or against one (1) of
 
 If you prefer to choose a different theme to focus on, that is OK, but please discuss it with me first.
 
-[<< Back to Assignments]({{< baseurl >}}/pages/assignments)
+[\<\< Back to Assignments]({{< baseurl >}}/pages/assignments)

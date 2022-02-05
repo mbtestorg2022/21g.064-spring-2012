@@ -18,4 +18,4 @@ In many ways Japan appears to be a land of contradictions. In mass media, policy
 
 Too often, however, such superficial images have come to stand for the people themselves. This course is designed to provide a more rigorous grounding in the patterns and experiences of everyday life as well as the aesthetic currents that accompany the historical changes. It is an introduction to Japanese society and culture that aims to replace clichés with cultural analysis.
 
-[<< Back to Syllabus]({{< baseurl >}}/pages/syllabus)
+[\<\< Back to Syllabus]({{< baseurl >}}/pages/syllabus)
