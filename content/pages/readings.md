@@ -109,7 +109,7 @@ Men, Women, and Change
 {{< tdopen >}}
 
 
-Kelly, William W., and Merry I. White. ["Students, Slackers, Singles, Seniors and Strangers: Transforming a Family Nation." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://studylib.net/doc/13524067/students--slackers--singles--seniors--and-strangers--tran...)
+Kelly, William W., and Merry I. White. ["Students, Slackers, Singles, Seniors and Strangers: Transforming a Family Nation." (PDF)](https://studylib.net/doc/13524067/students--slackers--singles--seniors--and-strangers--tran...)
 
 Film: _The Pacific Century, Vol. 6: Inside Japan, Inc._ 60 mins. 1992.
 
